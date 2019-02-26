@@ -139,13 +139,13 @@ body {
   .work {
     position: relative;
     float: left;
-    width: 274px;
-    margin: 20px 0 25px;
+    width: 270px;
+    margin: 20px 10px 25px 15px;
     overflow: auto;
   }
   
   .work:nth-child(even) {
-    margin-right: 40px;
+    /* margin-right: 40px; */
   }
   
   .work img {
